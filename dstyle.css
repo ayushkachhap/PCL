@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(135deg, purple, #000);
+}
+.content {
+    padding: 200px;
+  }
+.lgbtn{
+    background-color: #343a40;
+    color: white;
+}
